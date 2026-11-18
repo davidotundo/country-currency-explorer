@@ -43,7 +43,7 @@ currency_country_explorer/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/davidotundo/country-currency-explorer
 ```
 
 ### 2. Navigate to the project directory
