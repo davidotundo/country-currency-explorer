@@ -1,0 +1,20 @@
+{
+    "country_information": {
+        "country": "Kenya",
+        "capital": "Nairobi",
+        "population": 54227015,
+        "currency": "KES"
+    },
+    "exchange_rates": {
+        "base_currency": "KES",
+        "rates": {
+            "USD": 0.007683,
+            "EUR": 0.006989,
+            "GBP": 0.005825,
+            "UGX": 32.0248,
+            "TZS": 20.3327,
+            "RWF": 11.3661,
+            "ZAR": 0.1303
+        }
+    }
+}
